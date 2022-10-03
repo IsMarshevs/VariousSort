@@ -7,7 +7,7 @@ requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
     name="variousSort",
-    version="0.0.2",
+    version="0.0.3",
     author="Ilya Marshev",
     author_email="ismarshev@gmail.com",
     description="Various sorting algorithms in one library, ranging from slow bubble sorting to the fastest single-row sorting.",
